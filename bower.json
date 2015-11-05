@@ -1,0 +1,16 @@
+{
+  "name": "ReactjsRoutie",
+  "version": "1.0.0",
+  "main": "path/to/main.css",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ],
+  "dependencies": {
+    "react": "~0.14.2",
+    "routie": "~0.3.2",
+    "bootstrap": "~3.3.5",
+    "babel": "*"
+  },
+  "devDependencies": {}
+}
